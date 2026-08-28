@@ -1,5 +1,6 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 Name: Shunmathi S S
+
 Register number: 212225040412
 # AIM:
 To analyze and design a Hospital Management System using UML diagrams to represent the functional requirements, structure, and interactions between different components of the system.
