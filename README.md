@@ -33,10 +33,10 @@ Allow doctors to view and update patient records.
 Allow patients to view their appointments and medical information.
 
 3. Non-Functional Requirements
-4. 
-The system should be easy to use.
 
-Patient information should be secure.
+4. The system should be easy to use.
+
+5.Patient information should be secure.
 
 The system should provide quick response time.
 
@@ -57,8 +57,8 @@ Receptionist
 
 Administrator
 
-5. System Modules
-6. 
+System Modules
+
 Patient Management
 
 Doctor Management
